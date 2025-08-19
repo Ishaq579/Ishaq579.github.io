@@ -1,6 +1,5 @@
-
-
-
+<!DOCTYPE html>
+<html>
 <head>
 <title> ISHAQ's CV</title>
 </head>
@@ -9,6 +8,9 @@ body{ background-color:black;
       color: white;
       
     }
+b{
+ color:#00ffcc;
+}
 
 </style>
 <body>
@@ -19,7 +21,7 @@ body{ background-color:black;
    <li><b> E-mail:</b> rabiuishaq11622@gmail.com</li>
    <li><b> Phone no:</b> 09023898992</li>
    <li><b> Sex:</b> Male</li>
-   <li><b> Religion:</b> Islam</li>
+   <li><b> Religion:</b> Origin</li>
    <li><b> Marital Status:</b> Single</li>
    <li><b> Language:</b> Hausa</li>
    <li><b> Place of Birth:</b> Sabon-Gari Zaria</li>
@@ -51,9 +53,7 @@ body{ background-color:black;
   </div>
 </body>
 </html>
-<!DOCTYPE html>
-<html>
-<head>
+
 <title> Time Table</title>
 </head>
 <style>
